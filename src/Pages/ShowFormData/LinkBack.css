@@ -1,0 +1,11 @@
+#link{
+    color: #708090;
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: none;
+    margin-top: 10px;
+}
+
+#link:hover{
+    opacity: 0.5;
+}
